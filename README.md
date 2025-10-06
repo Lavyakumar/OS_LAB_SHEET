@@ -56,18 +56,17 @@ Each lab sheet demonstrates **core OS concepts** through Python simulations invo
 ## 🚀 How to Run
 
 ### Prerequisites
-Ensure Python 3.x is installed:
-
-python --version
-Run Lab Sheet 1
-cd Lab_Sheet_1
-python process_management.py
-Run Lab Sheet 2
-cd Lab_Sheet_2
-python system_startup_simulation.py
-After execution, check:
-output.txt for Lab 1 results
-process_log.txt for Lab 2 logs
+  - Ensure Python 3.x is installed:
+- python --version
+- Run Lab Sheet 1
+- cd Lab_Sheet_1
+- python process_management.py
+- Run Lab Sheet 2
+- cd Lab_Sheet_2
+- python system_startup_simulation.py
+- After execution, check:
+- output.txt for Lab 1 results
+- process_log.txt for Lab 2 logs
 ## 🧑‍💻 Author
 - Name: Lavya Kumar
 - Course: B.Tech Computer Science & Engineering
