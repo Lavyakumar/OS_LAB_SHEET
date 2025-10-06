@@ -68,7 +68,7 @@ python system_startup_simulation.py
 After execution, check:
 output.txt for Lab 1 results
 process_log.txt for Lab 2 logs
-🧑‍💻 Author
-Name: Lavya Kumar
-Course: B.Tech Computer Science & Engineering
-University: K.R. Mangalam University
+## 🧑‍💻 Author
+- Name: Lavya Kumar
+- Course: B.Tech Computer Science & Engineering
+- University: K.R. Mangalam University
